@@ -1,0 +1,20 @@
+.forecastTitle{
+	color: #fff;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.locationList {
+	height: 85vh;
+	overflow: auto;
+
+}
+
+@media (max-width: 64em) {
+	.locationList {
+		max-height: 40vh;
+		overflow: auto;
+		margin-bottom: 20px;
+	}
+}

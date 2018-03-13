@@ -1,0 +1,11 @@
+.locationCont {
+	width: 100%;
+	height: 25px;
+}
+
+.weatherLocationCont{
+	width: 60%;
+	font-family: 'Roboto', sans-serif;
+	cursor:pointer;
+
+}
